@@ -1,0 +1,7 @@
+Requirements
+pandas
+scikit-learn
+nltk
+re
+string
+matplotlib
